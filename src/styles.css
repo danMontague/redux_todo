@@ -4,7 +4,10 @@
 
 /** add todo **/
 .add-todo {
+  background-color: blueviolet;
   margin-left: 0.5rem;
+  padding: 20px;
+  border-radius: 20px;
 }
 
 /** todo list **/
